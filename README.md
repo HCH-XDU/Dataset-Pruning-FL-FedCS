@@ -1,4 +1,4 @@
-# 📍 Dataset-Pruing-FL-FedCS
+# 📍 Dataset-Pruning-FL-FedCS
 Official PyTorch implementation of paper (CVPR 2025) 🤩
 "FedCS：Coreset Selection for Federated Learning" 
 >[Chenhe Hao](https://github.com/HCH-XDU), [Weiying Xie](https://scholar.google.com/citations?user=y0ha5lMAAAAJ&hl=zh-CN), [Daixun Li](https://scholar.google.cz/citations?user=gaiP4-IAAAAJ&hl=zh-CN&oi=ao), [Haonan Qin](https://scholar.google.cz/citations?hl=zh-CN&user=ePGTHqkAAAAJ), [Hangyu Ye](https://github.com/Yehangyu-XD), [Leyuan Fang](https://scholar.google.cz/citations?user=Gfa4nasAAAAJ&hl=zh-CN&oi=ao), [Yunsong Li](https://ieeexplore.ieee.org/author/37292407800)<br>
@@ -29,9 +29,11 @@ If you find our codes useful for your research, please cite our paper. 🤭
 
 ```
 @inproceedings{Hao2025FedCS,
-  title={FedCS：Coreset Selection for Federated Learning},
-  author={Chenhe, Hao and Weiying, Xie and Daixun, Li and Haonan, Qin and Hangyu, Ye and Leyuan, Fang and Yunsong, Li},
+  title={{FedCS}: Coreset Selection for Federated Learning},
+  author={Hao, Chenhe and Xie, Weiying and Li, Daixun and Qin, Haonan and Ye, Hangyu and Fang, Leyuan and Li, Yunsong},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2025},
+  pages={15434--15443},
+  doi={10.1109/CVPR52734.2025.01438},
 }
 ```
